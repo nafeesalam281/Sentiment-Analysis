@@ -21,16 +21,16 @@ Package Manager: npm
 Installation
 Clone the repository:
 
-bash
+
 git clone <repository-url>
 cd sentiment-kids
 Install dependencies:
 
-bash
+
 npm install
 Start the development server:
 
-bash
+
 npm run dev
 
 
