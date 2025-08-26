@@ -18,21 +18,20 @@ Build Tool: Vite
 
 Package Manager: npm
 
-Project Structure
-text
+Installation
+Clone the repository:
 
-sentiment-kids/
-├── public/                 # Static assets
-├── src/
-│   ├── api/               # API integration files
-│   ├── assets/            # Images and other assets
-│   ├── App.css            # Application styles
-│   ├── App.jsx            # Main application component
-│   ├── index.css          # Global styles
-│   └── main.jsx           # Application entry point
-├── package.json           # Project dependencies and scripts
-├── tailwind.config.js     # Tailwind CSS configuration
-└── vite.config.js        # Vite configuration
+bash
+git clone <repository-url>
+cd sentiment-kids
+Install dependencies:
+
+bash
+npm install
+Start the development server:
+
+bash
+npm run dev
 
 
 # React + Vite
