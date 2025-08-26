@@ -20,6 +20,7 @@ Package Manager: npm
 
 Project Structure
 text
+
 sentiment-kids/
 ├── public/                 # Static assets
 ├── src/
@@ -32,6 +33,7 @@ sentiment-kids/
 ├── package.json           # Project dependencies and scripts
 ├── tailwind.config.js     # Tailwind CSS configuration
 └── vite.config.js        # Vite configuration
+
 
 # React + Vite
 
